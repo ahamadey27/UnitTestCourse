@@ -1,5 +1,4 @@
-﻿using RoomBookingApp.Core.Tests;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,8 +6,10 @@ using System.Text;
 using System.Threading.Tasks;
 using Xunit;
 using Shouldly;
+using RoomBookingApp.Core.Models;
+using RoomBookingApp.Core.Processors;
 
-namespace RoomBookingApp.Core
+namespace RoomBookingApp.Core.Tests
 {
     public class RoomBookingRequestProcessorTest
     {
@@ -35,14 +36,25 @@ namespace RoomBookingApp.Core
             Assert.Equal(request.Email, result.Email);
             Assert.Equal(request.Date, result.Date);
 
-            result.ShouldBeNull();
+            //Assert - alternative test using Shouldly NuGet Package
             result.FullName.ShouldBe(request.FullName);
             result.Email.ShouldBe(request.Email);
             result.Date.ShouldBe(request.Date);
+        }
 
+        [Fact]
+        public void Should_Return_Room_Booking_Request()
+        {
+            var bookingRequest = new RoomBookingRequest
+            {
+                FullName = "Test Name",
+                Email = "test@request.com",
+                Date = new DateTime(2025, 10, 20)
+            };
 
+            var processor = new RoomBookingRequestProcessor();
 
-
+            processor.BookRoom(bookingRequest);
         }
     }
 }

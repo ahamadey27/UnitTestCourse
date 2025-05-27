@@ -145,3 +145,7 @@ C:\Users\hamad\Documents\GitHub\UnitTestCourse\RoomBookingApp\RoomBookingApp.Cor
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\RoomBookingApp\RoomBookingApp.Core.Tests\obj\Debug\net9.0\RoomBookingApp.Core.Tests.pdb
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\RoomBookingApp\RoomBookingApp.Core.Tests\obj\Debug\net9.0\RoomBookingApp.Core.Tests.genruntimeconfig.cache
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\RoomBookingApp\RoomBookingApp.Core.Tests\obj\Debug\net9.0\ref\RoomBookingApp.Core.Tests.dll
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net9.0\.msCoverageSourceRootsMapping_RoomBookingApp.Core.Tests
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net9.0\CoverletSourceRootsMapping_RoomBookingApp.Core.Tests
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net9.0\RoomBookingApp.Core.dll
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\RoomBookingApp\RoomBookingApp.Core.Tests\bin\Debug\net9.0\RoomBookingApp.Core.pdb

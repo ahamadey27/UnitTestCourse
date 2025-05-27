@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1C4436F9-FE48-4CD1-9D4D-6163754AF751}|RoomBookingApp.Core\\RoomBookingApp.Core.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core\\processors\\roombookingrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4436F9-FE48-4CD1-9D4D-6163754AF751}|RoomBookingApp.Core\\RoomBookingApp.Core.csproj|solutionrelative:roombookingapp.core\\processors\\roombookingrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C4436F9-FE48-4CD1-9D4D-6163754AF751}|RoomBookingApp.Core\\RoomBookingApp.Core.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core\\roombookingapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C4436F9-FE48-4CD1-9D4D-6163754AF751}|RoomBookingApp.Core\\RoomBookingApp.Core.csproj|solutionrelative:roombookingapp.core\\roombookingapp.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core.tests\\roombookingrequestprocessortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|solutionrelative:roombookingapp.core.tests\\roombookingrequestprocessortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core.tests\\roombookingrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|solutionrelative:roombookingapp.core.tests\\roombookingrequestprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C4436F9-FE48-4CD1-9D4D-6163754AF751}|RoomBookingApp.Core\\RoomBookingApp.Core.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core\\models\\roombookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4436F9-FE48-4CD1-9D4D-6163754AF751}|RoomBookingApp.Core\\RoomBookingApp.Core.csproj|solutionrelative:roombookingapp.core\\models\\roombookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core.tests\\roombookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|solutionrelative:roombookingapp.core.tests\\roombookingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core.tests\\roombookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|solutionrelative:roombookingapp.core.tests\\roombookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C4436F9-FE48-4CD1-9D4D-6163754AF751}|RoomBookingApp.Core\\RoomBookingApp.Core.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core\\models\\roombookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C4436F9-FE48-4CD1-9D4D-6163754AF751}|RoomBookingApp.Core\\RoomBookingApp.Core.csproj|solutionrelative:roombookingapp.core\\models\\roombookingrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4339BB8A-26D8-442C-9971-DF95805A6A6F}|RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\roombookingapp\\roombookingapp.core.tests\\roombookingapp.core.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -30,67 +34,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomBookingResult.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core\\Models\\RoomBookingResult.cs",
+              "RelativeDocumentMoniker": "RoomBookingApp.Core\\Models\\RoomBookingResult.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core\\Models\\RoomBookingResult.cs",
+              "RelativeToolTip": "RoomBookingApp.Core\\Models\\RoomBookingResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:41:15.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomBookingRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core\\Models\\RoomBookingRequest.cs",
+              "RelativeDocumentMoniker": "RoomBookingApp.Core\\Models\\RoomBookingRequest.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core\\Models\\RoomBookingRequest.cs",
+              "RelativeToolTip": "RoomBookingApp.Core\\Models\\RoomBookingRequest.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA1wAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:41:00.803Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RoomBookingRequest.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingRequest.cs",
-              "RelativeDocumentMoniker": "RoomBookingApp.Core.Tests\\RoomBookingRequest.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingRequest.cs",
-              "RelativeToolTip": "RoomBookingApp.Core.Tests\\RoomBookingRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T17:00:23.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoomBookingRequestProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingRequestProcessor.cs",
-              "RelativeDocumentMoniker": "RoomBookingApp.Core.Tests\\RoomBookingRequestProcessor.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingRequestProcessor.cs",
-              "RelativeToolTip": "RoomBookingApp.Core.Tests\\RoomBookingRequestProcessor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:59:10.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RoomBookingRequestProcessorTest.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingRequestProcessorTest.cs",
               "RelativeDocumentMoniker": "RoomBookingApp.Core.Tests\\RoomBookingRequestProcessorTest.cs",
               "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingRequestProcessorTest.cs",
               "RelativeToolTip": "RoomBookingApp.Core.Tests\\RoomBookingRequestProcessorTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T16:30:44.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RoomBookingResult.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingResult.cs",
-              "RelativeDocumentMoniker": "RoomBookingApp.Core.Tests\\RoomBookingResult.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingResult.cs",
-              "RelativeToolTip": "RoomBookingApp.Core.Tests\\RoomBookingResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "RoomBookingRequestProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core\\Processors\\RoomBookingRequestProcessor.cs",
+              "RelativeDocumentMoniker": "RoomBookingApp.Core\\Processors\\RoomBookingRequestProcessor.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core\\Processors\\RoomBookingRequestProcessor.cs",
+              "RelativeToolTip": "RoomBookingApp.Core\\Processors\\RoomBookingRequestProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:54:25.79Z",
+              "WhenOpened": "2025-05-27T17:41:08.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "RoomBookingApp.Core",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core\\RoomBookingApp.Core.csproj",
+              "RelativeDocumentMoniker": "RoomBookingApp.Core\\RoomBookingApp.Core.csproj",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core\\RoomBookingApp.Core.csproj",
+              "RelativeToolTip": "RoomBookingApp.Core\\RoomBookingApp.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T17:43:05.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RoomBookingApp.Core.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\RoomBookingApp\\RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj",
               "RelativeDocumentMoniker": "RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj",
@@ -98,7 +115,8 @@
               "RelativeToolTip": "RoomBookingApp.Core.Tests\\RoomBookingApp.Core.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-27T16:28:17.633Z"
+              "WhenOpened": "2025-05-27T16:28:17.633Z",
+              "EditorCaption": ""
             }
           ]
         }
