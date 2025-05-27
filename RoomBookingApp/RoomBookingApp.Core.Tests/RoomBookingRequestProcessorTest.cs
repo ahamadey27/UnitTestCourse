@@ -37,6 +37,8 @@ namespace RoomBookingApp.Core
 
             result.ShouldBeNull();
             result.FullName.ShouldBe(request.FullName);
+            result.Email.ShouldBe(request.Email);
+            result.Date.ShouldBe(request.Date);
 
 
 
