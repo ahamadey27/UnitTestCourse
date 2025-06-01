@@ -1,0 +1,15 @@
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\bin\Debug\net9.0\HelloTest.exe
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\bin\Debug\net9.0\HelloTest.deps.json
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\bin\Debug\net9.0\HelloTest.runtimeconfig.json
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\bin\Debug\net9.0\HelloTest.dll
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\bin\Debug\net9.0\HelloTest.pdb
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\HelloTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\HelloTest.AssemblyInfoInputs.cache
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\HelloTest.AssemblyInfo.cs
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\HelloTest.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\HelloTest.sourcelink.json
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\HelloTest.dll
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\refint\HelloTest.dll
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\HelloTest.pdb
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\HelloTest.genruntimeconfig.cache
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\HelloTest\HelloTest\obj\Debug\net9.0\ref\HelloTest.dll
