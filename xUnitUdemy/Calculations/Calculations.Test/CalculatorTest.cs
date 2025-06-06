@@ -14,7 +14,7 @@ namespace Calculations.Test
             var sum = calculator.Add(1, 2);
 
             //Assertion
-            Assert.Equal(2, sum); //First argument is expected value and second is actual
+            Assert.Equal(3, sum); // Corrected expected value from 2 to 3
         }
 
         [Fact]
@@ -24,8 +24,12 @@ namespace Calculations.Test
             var calculator = new Calculator();
 
             //Act
-            var sum = calculator.Add(1.5m, 1.2m)
+            
+            var sum = calculator.Add(1.5m, 1.2m); 
 
+            //Assert
+            // Ensure the expected value has the 'm' suffix to denote it as a decimal
+            Assert.Equal(2.7m, sum); // This assertion expects 'sum' to be a decimal
         }
     }
 }

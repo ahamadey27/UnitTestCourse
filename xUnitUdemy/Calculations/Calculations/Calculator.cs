@@ -12,5 +12,10 @@ namespace Calculations
         {
             return a + b;
         }
+
+        public decimal Add(decimal a, decimal b)
+        {
+            return a + b;
+        }
     }
 }

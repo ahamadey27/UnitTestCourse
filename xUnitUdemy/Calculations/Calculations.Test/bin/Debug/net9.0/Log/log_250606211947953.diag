@@ -1,0 +1,29 @@
+2025-06-06T21:19:47.9576092+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.6.3+5354e77dc47f233239dfddf6d2be620b9e14b171
+2025-06-06T21:19:47.9646055+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-06-06T21:19:47.9653621+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-06-06T21:19:47.9653652+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 21:19:47.942
+2025-06-06T21:19:47.9663598+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 46568
+2025-06-06T21:19:47.9663804+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.5
+2025-06-06T21:19:47.9663903+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.5\System.Private.CoreLib.dll
+2025-06-06T21:19:47.9663969+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-06-06T21:19:47.9663990+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Calculations.Test.dll
+2025-06-06T21:19:47.9664506+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Log --results-directory C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\TestResults --client-port 52781'
+2025-06-06T21:19:47.9672594+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-06-06T21:19:47.9753530+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-06-06T21:19:47.9823989+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-06-06T21:19:48.0956288+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '2.0.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2025-06-06T21:19:48.0978882+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v2.0.2+ccd27e9792 (64-bit .NET 9.0.5)
+2025-06-06T21:19:48.1203824+00:00 xUnit.net INFORMATION   Discovering: Calculations.Test
+2025-06-06T21:19:48.1313068+00:00 xUnit.net INFORMATION   Discovered:  Calculations.Test
+2025-06-06T21:19:48.1410850+00:00 xUnit.net INFORMATION   Starting:    Calculations.Test
+2025-06-06T21:19:48.2033281+00:00 xUnit.net ERROR     Calculations.Test.CalculatorTest.Add_Given1and2_Returns3 [FAIL]
+2025-06-06T21:19:48.2035133+00:00 xUnit.net INFORMATION       Assert.Equal() Failure: Values differ
+2025-06-06T21:19:48.2035191+00:00 xUnit.net INFORMATION       Expected: 2
+2025-06-06T21:19:48.2035195+00:00 xUnit.net INFORMATION       Actual:   3
+2025-06-06T21:19:48.2036595+00:00 xUnit.net INFORMATION       Stack Trace:
+2025-06-06T21:19:48.2039077+00:00 xUnit.net INFORMATION         C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\CalculatorTest.cs(17,0): at Calculations.Test.CalculatorTest.Add_Given1and2_Returns3()
+2025-06-06T21:19:48.2039177+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2025-06-06T21:19:48.2039214+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2025-06-06T21:19:48.2054039+00:00 xUnit.net INFORMATION   Finished:    Calculations.Test
+2025-06-06T21:19:48.2079639+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2025-06-06T21:19:48.2107835+00:00 xUnit.net INFORMATION    Calculations.Test  Total: 3, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 0.067s
