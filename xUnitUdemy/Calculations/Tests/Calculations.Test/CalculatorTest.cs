@@ -1,4 +1,6 @@
-﻿
+﻿using Xunit;
+using Calculations;
+
 namespace Calculations.Test;
 
 public class CalculatorTest
@@ -14,7 +16,20 @@ public class CalculatorTest
 
 
         //Assert : Results are evaluated
-        Assert.True(true);
+        Assert.Equal(2, sum); //Fist argument is expected value. Second is the actual value
 
+    }
+
+    [Fact]
+    public void Add_GivenTwoDecimalValue_ReturnSumWithTwoPlaces()
+    {
+        //Arrange
+        var calculator = new Calculator();
+
+        //Act
+        var sum = calculator.Add(1.5m, 1.2m); //m signifies decimal value
+
+        //Assertion
+        Assert.Equal(2.7m, sum);
     }
 }
