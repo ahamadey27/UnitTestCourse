@@ -1,0 +1,5 @@
+c:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\obj\Debug\net9.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\obj\Debug\net9.0\Calculations.AssemblyInfoInputs.cache
+c:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\obj\Debug\net9.0\Calculations.AssemblyInfo.cs
+c:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\obj\Debug\net9.0\Calculations.csproj.CoreCompileInputs.cache
+c:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\obj\Debug\net9.0\Calculations.sourcelink.json
