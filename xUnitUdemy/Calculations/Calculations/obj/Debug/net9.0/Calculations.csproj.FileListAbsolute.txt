@@ -1,0 +1,15 @@
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\bin\Debug\net9.0\Calculations.exe
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\bin\Debug\net9.0\Calculations.deps.json
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\bin\Debug\net9.0\Calculations.runtimeconfig.json
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\bin\Debug\net9.0\Calculations.dll
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\bin\Debug\net9.0\Calculations.pdb
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\Calculations.AssemblyInfo.cs
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\Calculations.sourcelink.json
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\Calculations.dll
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\refint\Calculations.dll
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\Calculations.pdb
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\Calculations.genruntimeconfig.cache
+C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations\obj\Debug\net9.0\ref\Calculations.dll
