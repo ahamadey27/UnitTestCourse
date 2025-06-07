@@ -44,9 +44,9 @@ namespace Calculations.Test
 
             //Act and Assert
             Assert.Throws<InvalidDataException>(() => insurance.DiscountPercentage(age: 15));
-
-
-
         }
+
+        [Fact]
+
     }
 }

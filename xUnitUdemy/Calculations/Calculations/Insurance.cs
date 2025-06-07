@@ -23,4 +23,24 @@ namespace Calculations
 
         
     }
+
+    public class Customer(Insurance insurance, int age) //method for loyalty program
+    {
+        public virtual int Discount => insurance.DiscountPercentage(age); //normal customer
+    }
+
+    public class LoyalCustomer(Insurance insurance, int age) : Customer(insurance, age)
+    {
+        private readonly Insurance _insurance = insurance; //create a private field for Insurance and readonly modifier can only be assigned once
+        public override int Discount => _insurance.DiscountPercentage(age) + 10;
+    }
+
+    public static class CustomerFactory
+    {
+        public static Customer GetInstance(int yearsWithCompany, int age)
+        {
+            var insurance = new Insurance();
+            return yearsWithCompany >= 5 ? new Customer(insurance, age) : new LoyalCustomer(insurance, age);
+        }
+    }
 }
