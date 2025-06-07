@@ -20,7 +20,7 @@ namespace Calculations
 
         public IEnumerable<int> GetFibonacci(int length)
         {
-            var first = 1;
+            var first = 0;
             var second = 1;
             for (int i = 0; i < length; i++)
             {
