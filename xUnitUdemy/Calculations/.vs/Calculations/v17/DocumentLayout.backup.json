@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations.test\\insurancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|solutionrelative:calculations.test\\insurancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|solutionrelative:calculations\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations.test\\insurancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|solutionrelative:calculations.test\\insurancetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Insurance.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations\\Insurance.cs",
               "RelativeDocumentMoniker": "Calculations\\Insurance.cs",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InsuranceTest.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\InsuranceTest.cs",
               "RelativeDocumentMoniker": "Calculations.Test\\InsuranceTest.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\InsuranceTest.cs",
-              "RelativeToolTip": "Calculations.Test\\InsuranceTest.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAkwDIAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\InsuranceTest.cs*",
+              "RelativeToolTip": "Calculations.Test\\InsuranceTest.cs*",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T21:03:09.093Z",
               "EditorCaption": ""
