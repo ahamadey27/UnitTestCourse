@@ -65,10 +65,15 @@ namespace Calculations.Test
         [Fact]
         public void GetFibonacci_First5ElementsAreCorrect()
         {
+            //Arrange
             var calculator = new Calculator();
 
+            //Act
             var fibo = calculator.GetFibonacci(length: 5);
+            var expectedSeries = new List<int>() { 1, 1, 2, 3, 5 };
 
+            //Assertion
+            Assert.Equal(expectedSeries, fibo);
         }
     }
 }
