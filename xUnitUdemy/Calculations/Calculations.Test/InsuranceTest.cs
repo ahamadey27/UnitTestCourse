@@ -48,5 +48,15 @@ namespace Calculations.Test
 
         [Fact]
 
+        public void Customer_YearsLessThan5_ReturnsCustomer()
+        {
+            var customer = CustomerFactory.GetInstance(yearsWithCompany: 3, age: 20);
+
+            Assert.IsType<Customer>(customer);
+
+            //Disscount = 15%
+        }
+
+
     }
 }

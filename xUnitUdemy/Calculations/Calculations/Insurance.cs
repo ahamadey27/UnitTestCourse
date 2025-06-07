@@ -38,9 +38,9 @@ namespace Calculations
     public static class CustomerFactory
     {
         public static Customer GetInstance(int yearsWithCompany, int age)
-        {
+        { 
             var insurance = new Insurance();
-            return yearsWithCompany >= 5 ? new Customer(insurance, age) : new LoyalCustomer(insurance, age);
+            return yearsWithCompany >= 5 ? new LoyalCustomer(insurance, age) : new Customer(insurance, age);
         }
     }
 }
