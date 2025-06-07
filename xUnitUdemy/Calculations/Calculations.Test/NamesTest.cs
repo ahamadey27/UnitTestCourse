@@ -57,7 +57,14 @@ namespace Calculations.Test
             var fullName = names.MakeFullName("Alex", "Hamadey");
 
             //Assertion
-            Assert.Contains("Alex", fullName, StringComparison.InvariantCultureIgnoreCase);
+            Assert.Matches("[A-Z]{1}[a-z]+[A-Z]{1}[a-z]+$", fullName);
+            // Regex pattern explanation:
+            // ^             : Start of the string
+            // [A-Z]{1}      : Matches exactly one uppercase letter (first letter)
+            // [a-z]+        : Matches one or more lowercase letters
+            // [A-Z]{1}      : Matches exactly one uppercase letter (second capital)
+            // [a-z]+        : Matches one or more lowercase letters
+            // $             : End of the string (ensures no extra characters)
         }
     }
 }

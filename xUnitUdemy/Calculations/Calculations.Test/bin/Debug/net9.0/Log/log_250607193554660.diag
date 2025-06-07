@@ -1,0 +1,29 @@
+2025-06-07T19:35:54.6640772+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.6.3+5354e77dc47f233239dfddf6d2be620b9e14b171
+2025-06-07T19:35:54.6706668+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2025-06-07T19:35:54.6713577+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2025-06-07T19:35:54.6713599+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 19:35:54.649
+2025-06-07T19:35:54.6723171+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 33660
+2025-06-07T19:35:54.6723361+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.5
+2025-06-07T19:35:54.6723442+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.5\System.Private.CoreLib.dll
+2025-06-07T19:35:54.6723506+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2025-06-07T19:35:54.6723524+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Calculations.Test.dll
+2025-06-07T19:35:54.6724011+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Log --results-directory C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\TestResults --client-port 56044'
+2025-06-07T19:35:54.6732097+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2025-06-07T19:35:54.6814020+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2025-06-07T19:35:54.6882653+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable:  VSTest mode: False
+2025-06-07T19:35:54.7995044+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '2.0.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2025-06-07T19:35:54.8017529+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v2.0.2+ccd27e9792 (64-bit .NET 9.0.5)
+2025-06-07T19:35:54.8241843+00:00 xUnit.net INFORMATION   Discovering: Calculations.Test
+2025-06-07T19:35:54.8353638+00:00 xUnit.net INFORMATION   Discovered:  Calculations.Test
+2025-06-07T19:35:54.8461362+00:00 xUnit.net INFORMATION   Starting:    Calculations.Test
+2025-06-07T19:35:54.9099431+00:00 xUnit.net ERROR     Calculations.Test.NamesTest.MakeFullName_GivenFirstLastName_MatchesRegex [FAIL]
+2025-06-07T19:35:54.9101883+00:00 xUnit.net INFORMATION       Assert.Matches() Failure: Pattern not found in value
+2025-06-07T19:35:54.9101980+00:00 xUnit.net INFORMATION       Regex: "[A-Z]{1}[a-z]+[A-Z]{1}[a-z]+$"
+2025-06-07T19:35:54.9101987+00:00 xUnit.net INFORMATION       Value: "Alex Hamadey"
+2025-06-07T19:35:54.9103478+00:00 xUnit.net INFORMATION       Stack Trace:
+2025-06-07T19:35:54.9105612+00:00 xUnit.net INFORMATION         C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\NamesTest.cs(60,0): at Calculations.Test.NamesTest.MakeFullName_GivenFirstLastName_MatchesRegex()
+2025-06-07T19:35:54.9105712+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2025-06-07T19:35:54.9105746+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2025-06-07T19:35:54.9174046+00:00 xUnit.net INFORMATION   Finished:    Calculations.Test
+2025-06-07T19:35:54.9200056+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2025-06-07T19:35:54.9227545+00:00 xUnit.net INFORMATION    Calculations.Test  Total: 1, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 0.074s
