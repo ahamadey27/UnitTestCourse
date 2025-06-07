@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace Calculations.Test
 {
@@ -57,14 +58,18 @@ namespace Calculations.Test
             var fullName = names.MakeFullName("Alex", "Hamadey");
 
             //Assertion
-            Assert.Matches("[A-Z]{1}[a-z]+[A-Z]{1}[a-z]+$", fullName);
+            Assert.Matches("^[A-Z]{1}[a-z]+\\s[A-Z]{1}[a-z]+$", fullName);
             // Regex pattern explanation:
             // ^             : Start of the string
             // [A-Z]{1}      : Matches exactly one uppercase letter (first letter)
             // [a-z]+        : Matches one or more lowercase letters
+            // \\s → This ensures there's a space between the first and last name.
             // [A-Z]{1}      : Matches exactly one uppercase letter (second capital)
             // [a-z]+        : Matches one or more lowercase letters
             // $             : End of the string (ensures no extra characters)
         }
+
+        
+
     }
 }

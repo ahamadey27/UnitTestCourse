@@ -4,7 +4,6 @@ C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculati
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Calculations.runtimeconfig.json
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Calculations.exe
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\testhost.exe
-C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\xunit.runner.json
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Calculations.Test.exe
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Calculations.Test.deps.json
 C:\Users\hamad\Documents\GitHub\UnitTestCourse\xUnitUdemy\Calculations\Calculations.Test\bin\Debug\net9.0\Calculations.Test.runtimeconfig.json

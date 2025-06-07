@@ -17,5 +17,25 @@ namespace Calculations
         {
             return a + b;
         }
+
+        public IEnumerable<int> GetFibonacci(int length)
+        {
+            var first = 1;
+            var second = 1;
+            for (int i = 0; i < length; i++)
+            {
+                var next = first + second;
+
+                first = second;
+                second = next;
+
+                yield return first;
+                
+            }
+        }
+
+
+
+
     }
 }
