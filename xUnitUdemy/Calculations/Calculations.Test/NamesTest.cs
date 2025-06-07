@@ -18,7 +18,46 @@ namespace Calculations.Test
             var fullName = names.MakeFullName("Alex", "Hamadey");
 
             //Assertion
-            Assert.Equal("Alex Hamadey", fullName);
+            Assert.Equal("Alex Hamadey", fullName, ignoreCase: true);
+        }
+
+        [Fact]
+        public void MakeFullName_GivenFirstLastName_FirstNameExists()
+        {
+            //Arrange
+            var names = new Names();
+
+            //Act
+            var fullName = names.MakeFullName("Alex", "Hamadey");
+
+            //Assertion
+            Assert.Contains("Alex", fullName, StringComparison.InvariantCultureIgnoreCase);
+        }
+
+        [Fact]
+        public void MakeFullName_GivenFirstLastName_BeginsWithFirstName()
+        {
+            //Arrange
+            var names = new Names();
+
+            //Act
+            var fullName = names.MakeFullName("Alex", "Hamadey");
+
+            //Assertion
+            Assert.StartsWith("Alex", fullName, StringComparison.InvariantCultureIgnoreCase); //ignores case
+        }
+
+        [Fact]
+        public void MakeFullName_GivenFirstLastName_MatchesRegex()
+        {
+            //Arrange
+            var names = new Names();
+
+            //Act
+            var fullName = names.MakeFullName("Alex", "Hamadey");
+
+            //Assertion
+            Assert.Contains("Alex", fullName, StringComparison.InvariantCultureIgnoreCase);
         }
     }
 }

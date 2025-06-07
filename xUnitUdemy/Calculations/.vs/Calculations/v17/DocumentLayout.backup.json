@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations.test\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|solutionrelative:calculations.test\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations.test\\namestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|solutionrelative:calculations.test\\namestest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|solutionrelative:calculations\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations\\names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|solutionrelative:calculations\\names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|solutionrelative:calculations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations.test\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{071B863A-1BB0-4230-9BA6-DF53EFC7F998}|Calculations.Test\\Calculations.Test.csproj|solutionrelative:calculations.test\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|c:\\users\\hamad\\documents\\github\\unittestcourse\\xunitudemy\\calculations\\calculations\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F96586A-C28D-499D-B6D8-BC1A615A52E6}|Calculations\\Calculations.csproj|solutionrelative:calculations\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,32 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NamesTest.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\NamesTest.cs",
-              "RelativeDocumentMoniker": "Calculations.Test\\NamesTest.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\NamesTest.cs",
-              "RelativeToolTip": "Calculations.Test\\NamesTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T21:15:41.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Names.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations\\Names.cs",
               "RelativeDocumentMoniker": "Calculations\\Names.cs",
@@ -67,21 +42,29 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CalculatorTest.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\CalculatorTest.cs",
-              "RelativeDocumentMoniker": "Calculations.Test\\CalculatorTest.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\CalculatorTest.cs*",
-              "RelativeToolTip": "Calculations.Test\\CalculatorTest.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAABFwBAAAAAaAAAAAAAAAA==",
+              "Title": "NamesTest.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\NamesTest.cs",
+              "RelativeDocumentMoniker": "Calculations.Test\\NamesTest.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\NamesTest.cs",
+              "RelativeToolTip": "Calculations.Test\\NamesTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T20:45:27.646Z",
+              "WhenOpened": "2025-06-06T21:15:41.062Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Calculator.cs",
               "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations\\Calculator.cs",
               "RelativeDocumentMoniker": "Calculations\\Calculator.cs",
@@ -94,15 +77,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations\\Program.cs",
-              "RelativeDocumentMoniker": "Calculations\\Program.cs",
-              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations\\Program.cs",
-              "RelativeToolTip": "Calculations\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "Calculations.Test\\CalculatorTest.cs",
+              "ToolTip": "C:\\Users\\hamad\\Documents\\GitHub\\UnitTestCourse\\xUnitUdemy\\Calculations\\Calculations.Test\\CalculatorTest.cs",
+              "RelativeToolTip": "Calculations.Test\\CalculatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T20:37:44.151Z"
+              "WhenOpened": "2025-06-06T20:45:27.646Z",
+              "EditorCaption": ""
             }
           ]
         }
